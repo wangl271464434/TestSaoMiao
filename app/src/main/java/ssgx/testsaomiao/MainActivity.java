@@ -15,7 +15,6 @@ public class MainActivity extends ActionBarActivity {
 
     @Bind(R.id.btn)
     Button btn;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
