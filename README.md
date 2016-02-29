@@ -1,2 +1,2 @@
 # TestSaoMiao
-Android二维码扫描
+通过ZXing库实现的Android二维码扫描。
